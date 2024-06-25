@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maks_\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|c:\\users\\maks_\\source\\repos\\e3\\platformservice\\platformservice\\data\\platformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\data\\platformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|c:\\users\\maks_\\source\\repos\\e3\\platformservice\\platformservice\\data\\iplatformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\data\\iplatformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|c:\\users\\maks_\\source\\repos\\e3\\platformservice\\platformservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|c:\\users\\maks_\\source\\repos\\e3\\platformservice\\platformservice\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|c:\\users\\maks_\\source\\repos\\e3\\platformservice\\platformservice\\profiles\\platformsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\profiles\\platformsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|c:\\users\\maks_\\source\\repos\\e3\\platformservice\\platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|c:\\users\\maks_\\source\\repos\\e3\\platformservice\\platformservice\\dtos\\platformcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\dtos\\platformcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|c:\\users\\maks_\\source\\repos\\e3\\platformservice\\platformservice\\dtos\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\dtos\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|c:\\users\\maks_\\source\\repos\\e3\\platformservice\\platformservice\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|c:\\users\\maks_\\source\\repos\\e3\\platformservice\\platformservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4E7B98-A0EE-4D7F-B1F8-94E7D13E07F6}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PlatformService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 386,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 113,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-19T11:22:37.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Dockerfile",
+              "RelativeDocumentMoniker": "PlatformService\\Dockerfile",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Dockerfile",
+              "RelativeToolTip": "PlatformService\\Dockerfile",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-18T10:13:59.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlatformsController.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Controllers\\PlatformsController.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Controllers\\PlatformsController.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Controllers\\PlatformsController.cs",
+              "RelativeToolTip": "PlatformService\\Controllers\\PlatformsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:54:18.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlatformsProfile.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Profiles\\PlatformsProfile.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Profiles\\PlatformsProfile.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Profiles\\PlatformsProfile.cs",
+              "RelativeToolTip": "PlatformService\\Profiles\\PlatformsProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:48:57.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrepDb.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Data\\PrepDb.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Data\\PrepDb.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Data\\PrepDb.cs",
+              "RelativeToolTip": "PlatformService\\Data\\PrepDb.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:06:09.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlatformRepo.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Data\\PlatformRepo.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Data\\PlatformRepo.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Data\\PlatformRepo.cs",
+              "RelativeToolTip": "PlatformService\\Data\\PlatformRepo.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAWwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:53:54.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPlatformRepo.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Data\\IPlatformRepo.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Data\\IPlatformRepo.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Data\\IPlatformRepo.cs",
+              "RelativeToolTip": "PlatformService\\Data\\IPlatformRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:50:55.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Program.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Program.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Program.cs",
+              "RelativeToolTip": "PlatformService\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:38:22.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlatformCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Dtos\\PlatformCreateDto.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Dtos\\PlatformCreateDto.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Dtos\\PlatformCreateDto.cs",
+              "RelativeToolTip": "PlatformService\\Dtos\\PlatformCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:43:47.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlatformReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Dtos\\PlatformReadDto.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Dtos\\PlatformReadDto.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Dtos\\PlatformReadDto.cs",
+              "RelativeToolTip": "PlatformService\\Dtos\\PlatformReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:41:29.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PlatformService\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:35:43.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Models\\Platform.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Models\\Platform.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\E3\\PlatformService\\PlatformService\\Models\\Platform.cs",
+              "RelativeToolTip": "PlatformService\\Models\\Platform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:28:23.439Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 43,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\maks_\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\maks_\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "ViewState": "AQIAANAAAAAAAAAAAAAhwNYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-19T11:25:04.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
